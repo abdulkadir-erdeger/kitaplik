@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "556243045055",
+    "firebase_url": "https://kitaplik-68d1e-default-rtdb.firebaseio.com",
+    "project_id": "kitaplik-68d1e",
+    "storage_bucket": "kitaplik-68d1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556243045055:android:2460677b545e3b709ad40a",
+        "android_client_info": {
+          "package_name": "com.kitaplik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556243045055-bd1us2tkue4puq37suumehc69u0hons6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhQ4EqS868klzLomHcOFdQzKnoToxMaRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556243045055-bd1us2tkue4puq37suumehc69u0hons6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
