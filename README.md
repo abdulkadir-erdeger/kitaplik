@@ -1,4 +1,4 @@
 # kitaplik
 
 Tanıtım: 
-![alt text](https://www.linkpicture.com/q/kitaplik.png "Logo Title Text 1")
+![alt text](https://lh3.googleusercontent.com/d/1c0FEGUioWJS_yPstrn6vrTHK3xh9BPO2 "Logo Title Text 1")
